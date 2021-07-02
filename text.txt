@@ -1,0 +1,3 @@
+ids:navbar,note,navline,enterWired
+class:blinkFrame blink,wiredAnim,wdel1s, del6s..5s..4s.., Bfast , intro , copy , mail, logo
+
